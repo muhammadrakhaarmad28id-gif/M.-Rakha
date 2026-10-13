@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portofolio Saya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f1f5f9;
+      color: #1e293b;
+      max-width: 750px;
+      margin: 50px auto;
+      padding: 20px;
+      line-height: 1.7;
+    }
+    section {
+      background: white;
+      padding: 24px;
+      margin-bottom: 20px;
+      border-radius: 14px;
+    }
+    h1, h2 { color: #2563eb; }
+    a { color: #2563eb; }
+  </style>
+</head>
+<body>
+  <section>
+    <h1>Halo, saya Nama Kamu!</h1>
+    <p>Saya sedang belajar coding dan membuat proyek kreatif.</p>
+  </section>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Saya tertarik dengan teknologi,
+    desain, dan pengembangan website.</p>
+  </section>
+
+  <section>
+    <h2>Proyek Saya</h2>
+    <ul>
+      <li>Website pertama saya</li>
+      <li>Proyek latihan HTML dan CSS</li>
+      <li>Proyek berikutnya</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Keahlian</h2>
+    <p>HTML, CSS, dan GitHub (sedang dipelajari).</p>
+  </section>
+</body>
+</html>
